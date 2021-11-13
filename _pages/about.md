@@ -22,3 +22,5 @@ I'm a fourth year doctoral researcher working on Machine Learning and Causal Inf
 I have expertise in Graphical Models, Observational Causal Inference and Double Machine Learning and have written research papers on these topics. I believe my experience in both the applied Machine Learning as well the theoretic Machine Learning realms equips me with a unique perspective when it comes to solving problems and answering questions.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+[fab fa-linkedin]
