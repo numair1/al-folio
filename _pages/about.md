@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://www.cs.jhu.edu">Johns Hopkins University Computer Science</a>
 
 profile:
   align: right
